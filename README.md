@@ -375,40 +375,6 @@ Test complete CRUD operations pada Reservation:
 
 ---
 
-## 📸 Screenshots
-
-<div align="center">
-
-### 🏠 Landing Page
-> *Dark theme modern dengan hero section dan field listings*
-
-![Landing Page](https://via.placeholder.com/800x400/1a1a2e/39ff14?text=Landing+Page+-+Dark+Theme+with+Neon+Green)
-
-### 📅 Booking System
-> *Real-time availability check & price calculation*
-
-![Booking Form](https://via.placeholder.com/800x400/1a1a2e/39ff14?text=Booking+Form+-+Real-time+Validation)
-
-### 👤 Member Dashboard
-> *Personal statistics & booking history*
-
-![Member Dashboard](https://via.placeholder.com/800x400/1a1a2e/39ff14?text=Member+Dashboard+-+Statistics+%26+History)
-
-### 👨‍💼 Admin Panel
-> *Field management & payment verification*
-
-![Admin Panel](https://via.placeholder.com/800x400/1a1a2e/39ff14?text=Admin+Panel+-+Management+Console)
-
-### 💳 Payment Flow
-> *Multiple payment methods with proof upload*
-
-![Payment](https://via.placeholder.com/800x400/1a1a2e/39ff14?text=Payment+Gateway+-+Multi+Methods)
-
-</div>
-
-> 💡 **Note:** Screenshots akan ditambahkan setelah deployment. Placeholder menunjukkan konsep UI/UX.
-
----
 
 ## 🎓 Konsep OOP yang Diterapkan
 
